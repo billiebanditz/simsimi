@@ -67,7 +67,7 @@ if($url['result'] != 100)
 							'messages' => array(
 								array(
 										'type' => 'text',					
-										'text' => 'Sorry Coy '.$profil->displayName.' gw lg sibuk nih.'
+										'text' => 'Sorry '.$profil->displayName.' gw lg sibuk nih.'
 									)
 							)
 						);
